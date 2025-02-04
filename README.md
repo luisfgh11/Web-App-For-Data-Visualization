@@ -1,3 +1,3 @@
-# Proyecto_5
-Proyecto para el Sprint 5, contiene una aplicación web construye ya sea un histograma o un gráfico de dispersión según la opción seleccionada.
-https://proyecto-5-3pqu.onrender.com
+# Project_5
+Project for Sprint 5, contains a web application that builds either a histogram or a scatter plot depending on the selected option.
+https://project-5-3pqu.onrender.com
